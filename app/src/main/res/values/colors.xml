@@ -3,4 +3,22 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+
+    <!-- 底部四个按钮 -->
+    <color name="app_overall_bottom">#8F9296</color>
+    <color name="app_overall_bottom_select">#FF3600</color>
+    <color name="app_transpar">#66000000</color>
+    <color name="chart_header">#ea2a24</color>
+    <color name="chart_viewpager_normal">#5a5c68</color>
+    <color name="chart_viewpager_selector">#ffffff</color>
+    <color name="chart_date_year">#999999</color>
+    <color name="color_e12926">#e12926</color>
+    <color name="color_222222">#222222</color>
+    <color name="color_666666">#666666</color>
+    <color name="color_888888">#888888</color>
+    <color name="color_d8d8d8">#d8d8d8</color>
+    <color name="color_f8f8f8">#f8f8f8</color>
+    <color name="color_eeeeee">#eeeeee</color>
+    <color name="color_ffffff">#ffffff</color>
 </resources>

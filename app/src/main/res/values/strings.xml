@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">星火商城</string>
+
+
+    <!-- 四个底部按钮 -->
+    <string name="home">首页</string>
+    <string name="category">分类</string>
+    <string name="cart">购物车</string>
+    <string name="my">我的</string>
 </resources>
