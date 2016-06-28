@@ -36,6 +36,7 @@ public class DeviceUtil {
 			mDeviceUtil = new DeviceUtil();
 		}
 		return mDeviceUtil;
+
 	}
 
 	/**
